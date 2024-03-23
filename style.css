@@ -9,3 +9,13 @@ h1{
 .name-highilights{
     color: orange;
 }
+.haf-with{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.haf-with img{
+    width: 100%;
+}
